@@ -1,3 +1,4 @@
+ [![](https://github.com/alexcnsf/Alex_lab03/workflows/tests/badge.svg)](https://github.com/alexcnsf/Alex_lab03/workflows/tests/badge.svg)
 # Pytest Lab
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
